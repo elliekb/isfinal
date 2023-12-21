@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    
+}
+
+.header{
+    text-align: center;
+    font-weight: 600;
+    
+    width: 100% ;
+    font-size: xx-large;
+    color:black
+}
+#Why{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    
+
+}
+img{
+    display:grid; 
+    border:solid seashell 3px;
+}
+h2{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    text-align: center;
+    font-style: oblique;
+}
+h4{
+    text-align: center;
+    font-style:oblique;
+    font-size: x-large;
+}
+#youtube {
+    text-align: center;
+}
+
+
